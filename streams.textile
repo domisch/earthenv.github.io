@@ -25,7 +25,7 @@ h3. Dataset download
 The variables can be downloaded in the netCDF-4 format. See the ReadMe for an overview of the variables and the band number, as well as Table S1 of the associated publication for additional information.
 
 | Category        |  Download link | files      |
-|                 |  ReadMe        | "ReadMe.txt":https://github.com/domisch/stream_layers/blob/master/ReadMe.txt |
+|                 |  ReadMe        | "ReadMe.txt":https://raw.githubusercontent.com/domisch/stream_layers/master/ReadMe.txt |
 | Climate         |  Monthly minimum temperature (average) |  "monthly_tmin_average.nc":http://data.earthenv.org/streams/monthly_tmin_average.nc |
 | Climate         |  Monthly maximum temperature (average) | "monthly_tmax_average.nc":http://data.earthenv.org/streams/monthly_tmax_average.nc |
 | Climate         |  Monthly upstream precipitation (sum)  | "monthly_prec_sum.nc":http://data.earthenv.org/streams/monthly_prec_sum.nc |
